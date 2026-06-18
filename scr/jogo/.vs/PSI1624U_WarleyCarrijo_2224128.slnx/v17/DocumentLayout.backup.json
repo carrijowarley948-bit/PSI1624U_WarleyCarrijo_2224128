@@ -1,0 +1,447 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|c:\\users\\2224128\\onedrive - escola digital\\projeto12\u00BA\\jogo\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|solutionrelative:properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\zumbi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|solutionrelative:zumbi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\zumbi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|solutionrelative:zumbi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|solutionrelative:registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|solutionrelative:registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\prefere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|solutionrelative:prefere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\prefere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|solutionrelative:prefere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\pongjogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|solutionrelative:pongjogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\pongjogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|solutionrelative:pongjogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\placar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|solutionrelative:placar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\placar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|solutionrelative:placar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|solutionrelative:musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|solutionrelative:database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\dama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|solutionrelative:dama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\dama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|solutionrelative:dama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\contas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|solutionrelative:contas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\contas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|solutionrelative:contas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|solutionrelative:bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD061E60-E145-48BD-9E55-1C8C8BA1A5B1}|jogo.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAASwBgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T14:06:44.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Placar.cs",
+              "DocumentMoniker": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\Placar.cs",
+              "RelativeDocumentMoniker": "Placar.cs",
+              "ToolTip": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\Placar.cs",
+              "RelativeToolTip": "Placar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T13:42:09.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Placar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\Placar.cs",
+              "RelativeDocumentMoniker": "Placar.cs",
+              "ToolTip": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\Placar.cs [Design]",
+              "RelativeToolTip": "Placar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T13:41:26.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-06-16T13:41:26.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAASwD4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T13:40:19.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\Bullet.cs",
+              "RelativeDocumentMoniker": "Bullet.cs",
+              "ToolTip": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\Bullet.cs",
+              "RelativeToolTip": "Bullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T13:38:48.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Dama.cs",
+              "DocumentMoniker": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\Dama.cs",
+              "RelativeDocumentMoniker": "Dama.cs",
+              "ToolTip": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\Dama.cs",
+              "RelativeToolTip": "Dama.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJMCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T13:32:46.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Dama.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\Dama.cs",
+              "RelativeDocumentMoniker": "Dama.cs",
+              "ToolTip": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\Dama.cs [Design]",
+              "RelativeToolTip": "Dama.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T13:32:46.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\DataBase.cs",
+              "RelativeDocumentMoniker": "DataBase.cs",
+              "ToolTip": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\DataBase.cs",
+              "RelativeToolTip": "DataBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T13:32:44.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T13:32:42.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T13:32:41.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T13:32:32.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T13:32:31.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\Main.cs",
+              "RelativeToolTip": "Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T13:32:31.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\Main.cs [Design]",
+              "RelativeToolTip": "Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T13:32:30.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MusicManager.cs",
+              "DocumentMoniker": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\MusicManager.cs",
+              "RelativeDocumentMoniker": "MusicManager.cs",
+              "ToolTip": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\MusicManager.cs",
+              "RelativeToolTip": "MusicManager.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwFQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T13:28:59.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Prefere.cs",
+              "DocumentMoniker": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\Prefere.cs",
+              "RelativeDocumentMoniker": "Prefere.cs",
+              "ToolTip": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\Prefere.cs",
+              "RelativeToolTip": "Prefere.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T13:28:46.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Prefere.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\Prefere.cs",
+              "RelativeDocumentMoniker": "Prefere.cs",
+              "ToolTip": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\Prefere.cs [Design]",
+              "RelativeToolTip": "Prefere.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T13:28:45.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T13:28:44.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Zumbi.cs",
+              "DocumentMoniker": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\Zumbi.cs",
+              "RelativeDocumentMoniker": "Zumbi.cs",
+              "ToolTip": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\Zumbi.cs",
+              "RelativeToolTip": "Zumbi.cs",
+              "ViewState": "AgIAAFYBAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T13:28:16.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PongJogo.cs",
+              "DocumentMoniker": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\PongJogo.cs",
+              "RelativeDocumentMoniker": "PongJogo.cs",
+              "ToolTip": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\PongJogo.cs",
+              "RelativeToolTip": "PongJogo.cs",
+              "ViewState": "AgIAAOoAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T13:27:39.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PongJogo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\PongJogo.cs",
+              "RelativeDocumentMoniker": "PongJogo.cs",
+              "ToolTip": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\PongJogo.cs [Design]",
+              "RelativeToolTip": "PongJogo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T13:27:38.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Registro.cs",
+              "DocumentMoniker": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\Registro.cs",
+              "RelativeDocumentMoniker": "Registro.cs",
+              "ToolTip": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\Registro.cs",
+              "RelativeToolTip": "Registro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T13:27:18.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Contas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\Contas.cs",
+              "RelativeDocumentMoniker": "Contas.cs",
+              "ToolTip": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\Contas.cs [Design]",
+              "RelativeToolTip": "Contas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T13:26:35.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Registro.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\Registro.cs",
+              "RelativeDocumentMoniker": "Registro.cs",
+              "ToolTip": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\Registro.cs [Design]",
+              "RelativeToolTip": "Registro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T13:26:21.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Contas.cs",
+              "DocumentMoniker": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\Contas.cs",
+              "RelativeDocumentMoniker": "Contas.cs",
+              "ToolTip": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\Contas.cs",
+              "RelativeToolTip": "Contas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T13:25:21.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Zumbi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\Zumbi.cs",
+              "RelativeDocumentMoniker": "Zumbi.cs",
+              "ToolTip": "C:\\Users\\2224128\\OneDrive - Escola Digital\\Projeto12\u00BA\\jogo\\Zumbi.cs [Design]",
+              "RelativeToolTip": "Zumbi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T13:40:54.757Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
