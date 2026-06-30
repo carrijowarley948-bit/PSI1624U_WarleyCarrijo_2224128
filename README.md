@@ -12,7 +12,6 @@ O objetivo do projeto é proporcionar uma experiência simples e organizada, per
 - Sistema de contas;
 - Biblioteca de jogos;
 - Placar de pontuações;
-- Preferências da aplicação;
 - Reprodução de música.
 
 ## Jogos Disponíveis
