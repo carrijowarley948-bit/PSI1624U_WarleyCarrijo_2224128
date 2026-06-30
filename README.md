@@ -34,5 +34,3 @@ O objetivo do projeto é proporcionar uma experiência simples e organizada, per
 2. Restaurar os pacotes necessários.
 3. Compilar o projeto.
 4. Executar a aplicação.
-
-Projeto desenvolvido no âmbito da unidade curricular de Desenvolvimento de Software.
